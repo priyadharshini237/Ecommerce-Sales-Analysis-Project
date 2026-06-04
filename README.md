@@ -105,7 +105,7 @@ Ecommerce-Analysis/
 ---
 ## Dashboard Preview
 
-![Dashboard](./Images/dashboard.jpg)
+![Dashboard](./Images/Ecommerce%20Dashboard.jpg)
 
 ---
 
